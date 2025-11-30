@@ -10,7 +10,8 @@ The project consist of three csv files:
 - Header: Contains provider information 
 - Line: Contains procedure information
 - Code: Contains diagnosis codes
-Together it creates a relational database structure
+
+Together it creates a relational database structure<br>
 Foreignkey: 'ProspectiveClaimId'
 
 ## How to Run
